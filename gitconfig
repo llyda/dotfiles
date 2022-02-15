@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rhea.dally0912@gmail.com
+	name = Rhea Dally
